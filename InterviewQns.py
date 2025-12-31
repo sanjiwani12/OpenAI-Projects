@@ -15,7 +15,7 @@ messages = [
             {
                 "type": "input_text",
                 "text": system_prompt
-            }
+        
         ]
     },
     {
